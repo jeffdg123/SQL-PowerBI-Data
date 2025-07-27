@@ -1,7 +1,9 @@
 # SQL-PowerBI-Data-Netflix
 Welcome to my **SQL–Power BI Data & Analytics Project** repository!
+
 This is a personal learning project where I explore a complete data warehousing and analytics workflow using a dataset from Kaggle.
 It demonstrates how to build a data warehouse with SQL and create Power BI dashboards to generate actionable insights.
+
 This project also showcases industry best practices in data engineering and analytics, serving as a hands-on journey to strengthen my skills in SQL and Power BI.
 
 ---
