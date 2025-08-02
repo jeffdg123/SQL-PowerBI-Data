@@ -1,4 +1,4 @@
-# SQL-PowerBI-Data-Netflix
+# SQL-PowerBI-Data-ECommerce
 Welcome to my **SQL–Power BI Data & Analytics Project** repository!
 
 This is a personal learning project where I explore a complete data warehousing and analytics workflow using a dataset from Kaggle.
