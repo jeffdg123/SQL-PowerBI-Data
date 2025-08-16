@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\scripts\\bronze\\proc_load_bronze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\bronze\\proc_load_bronze.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\scripts\\silver\\init_silver_table.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts\\silver\\init_silver_table.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "init_silver_table.sql - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (57))",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\scripts\\silver\\init_silver_table.sql",
+              "RelativeDocumentMoniker": "scripts\\silver\\init_silver_table.sql",
+              "ToolTip": "C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\scripts\\silver\\init_silver_table.sql - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (57))",
+              "RelativeToolTip": "scripts\\silver\\init_silver_table.sql - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (57))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-10T05:28:37.347Z",
+              "EditorCaption": " - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (57))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proc_load_bronze.sql - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (58))",
+              "DocumentMoniker": "C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\scripts\\bronze\\proc_load_bronze.sql",
+              "RelativeDocumentMoniker": "scripts\\bronze\\proc_load_bronze.sql",
+              "ToolTip": "C:\\Users\\Jeffrey\\Git Repos\\SQL-PowerBI-Data\\scripts\\bronze\\proc_load_bronze.sql - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (58))",
+              "RelativeToolTip": "scripts\\bronze\\proc_load_bronze.sql - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-10T06:07:26.139Z",
+              "EditorCaption": " - DESKTOP-T36N0BL\\SQLEXPRESS.DataWarehouse (DESKTOP-T36N0BL\\Jeffrey (58))"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
